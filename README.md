@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
 
-  3D printing technology related research and development work.
+  Embedded software development.
 
 - 🌱 I’m currently learning：
 
