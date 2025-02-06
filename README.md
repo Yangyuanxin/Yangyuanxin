@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:  
 
-  If you have any questions, you can contact me by adding WeChat: BruceYangx.
+  If you have any questions, you can contact me by adding WeChat: morixinguan
 
  [![Yangyuanxin's github stats](https://github-readme-stats.vercel.app/api?username=Yangyuanxin)](https://github.com/Yangyuanxin)
 
